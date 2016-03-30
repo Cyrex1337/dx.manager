@@ -1,2 +1,2 @@
-# cyrex.lib
-small gamehacking library
+# DX Manager
+Simple WIP Direct3D9 Manager
